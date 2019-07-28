@@ -131,7 +131,7 @@ auto_safeconvert () function {
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode (a_to_vi);
-            a_to_ve [i]. href = "http://website-anda.com/safelink.html?url=" + encryptedUrl;
+            a_to_ve [i]. href = "hhttps://crackkids.xyz/?page_id=264?url=" + encryptedUrl;
             a_to_ve [i] .rel = "nofollow";
             a_to_vb ++;
             a_to_vc + = i + ":::" + a_to_ve [i] .href + "\ n";
